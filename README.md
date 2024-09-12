@@ -21,3 +21,5 @@ Este programa exibe a tabuada de um número fornecido pelo usuário. Ele solicit
 + escreva: Exibe a mensagem e os resultados na tela.
 + leia: Lê a entrada fornecida pelo usuário.
 + limpa: Limpa a tela.
+
+> Colaboração: João Artur
