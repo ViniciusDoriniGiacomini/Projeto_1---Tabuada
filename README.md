@@ -12,14 +12,17 @@ Este programa exibe a tabuada de um número fornecido pelo usuário. Ele solicit
 
 ### Estrutura do Código
 #### Variáveis:
+| Função | Descrição |
+| --- | --- | 
+| numero | Armazena o número informado pelo usuário |
+| resultado | Armazena o resultado da multiplicação |
+| contador | Usado para iterar de 1 a 10 |
 
-+ numero: Armazena o número informado pelo usuário.
-+ resultado: Armazena o resultado da multiplicação.
-+ contador: Usado para iterar de 1 a 10.
 #### Funções:
-
-+ escreva: Exibe a mensagem e os resultados na tela.
-+ leia: Lê a entrada fornecida pelo usuário.
-+ limpa: Limpa a tela.
+| Função | Descrição |
+| --- | --- | 
+| escreva | Exibe a mensagem e os resultados na tela |
+| leia | Lê a entrada fornecida pelo usuário |
+| limpa | Limpa a tela |
 
 > Colaboração: João Artur
